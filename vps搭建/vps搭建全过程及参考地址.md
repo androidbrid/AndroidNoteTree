@@ -3,5 +3,9 @@
 ![图片](http://chuantu.xyz/t6/741/1605515862x1031866013.png)  
 搬瓦工教程:  
 [搬瓦工VPS服务器购买及用教程](https://ssr.tools/208)  
+套餐如何选择  
+![图片](http://chuantu.xyz/t6/741/1605517885x1033347913.png)  
+[全部套餐列表](https://bwh88.net/cart.php?gid=1)  
+
 	- [Vultr](https://www.vultr.com/):`(采纳)`  
 ![图片](http://chuantu.xyz/t6/741/1605515510x1700338641.png)
