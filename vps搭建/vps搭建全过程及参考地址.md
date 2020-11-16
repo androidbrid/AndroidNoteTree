@@ -16,7 +16,7 @@
 ![图片](http://chuantu.xyz/t6/741/1605519083x1031866013.png)  
 搬瓦工支付宝购买流程  
 ![图片](http://chuantu.xyz/t6/741/1605520117x1700338641.png)  
-使用Winscp和Putty请参考Vultr,下面会有具体的使用步骤  
+<a href="#winscpPutty">使用Winscp和Putty请参考Vultr,下面会有具体的使用步骤</a>  
 搬瓦工后台面板简介  
 ![图片](http://chuantu.xyz/t6/741/1605520498x1031866013.png)  
 搬瓦工购买VPS后的网络优化  
@@ -46,6 +46,8 @@ Vultr VPS服务器购买简易流程
 		* VPS服务器购买  
 ![图片](http://chuantu.xyz/t6/741/1605527178x1700338641.png)  
 		* <p id="end">魔改BBR一键安装脚本</font>  
+<p id="winscpPutty">Winscp及Putty下载、安装、使用教程</p>  
+
 关于暴力魔改BBR  
 ![图片](http://chuantu.xyz/t6/741/1605529964x1031866013.png)  
 原版BBR与魔改BBR加速效果对比测试  
