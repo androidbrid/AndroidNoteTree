@@ -51,7 +51,6 @@ Vultr VPS服务器购买简易流程
 ![图片](http://chuantu.xyz/t6/741/1605531470x1033347913.png)  
 下载地址  
 ![图片](http://chuantu.xyz/t6/741/1605531562x1031866013.png)  
-
 关于暴力魔改BBR  
 ![图片](http://chuantu.xyz/t6/741/1605529964x1031866013.png)  
 原版BBR与魔改BBR加速效果对比测试  
