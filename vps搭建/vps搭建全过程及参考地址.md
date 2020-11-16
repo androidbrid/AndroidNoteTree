@@ -14,6 +14,8 @@
 ![图片](http://chuantu.xyz/t6/741/1605518537x1700338641.png)  
 搬瓦工测试IP  
 ![图片](http://chuantu.xyz/t6/741/1605519083x1031866013.png)  
+搬瓦工支付宝购买流程  
+![图片](http://chuantu.xyz/t6/741/1605519843x1700338641.png)  
 
 	- [Vultr](https://www.vultr.com/):`(采纳)`  
 ![图片](http://chuantu.xyz/t6/741/1605515510x1700338641.png)
