@@ -15,7 +15,15 @@
 搬瓦工测试IP  
 ![图片](http://chuantu.xyz/t6/741/1605519083x1031866013.png)  
 搬瓦工支付宝购买流程  
-![图片](http://chuantu.xyz/t6/741/1605519843x1700338641.png)  
+![图片](http://chuantu.xyz/t6/741/1605520117x1700338641.png)  
+使用Winscp和Putty请参考Vultr,下面会有具体的使用步骤  
+搬瓦工后台面板简介  
+![图片](http://chuantu.xyz/t6/741/1605520498x1031866013.png)  
+搬瓦工购买VPS后的网络优化  
+![图片](http://chuantu.xyz/t6/741/1605520616x1033347913.png)  
+[BBR一键安装脚本](https://ssr.tools/199)  
+[魔改BBR一键安装脚本(参考VultrBBR步骤)](https://ssr.tools/550)  
+[BBR Plus一键安装脚本](https://ssr.tools/1217)  
 
 	- [Vultr](https://www.vultr.com/):`(采纳)`  
 ![图片](http://chuantu.xyz/t6/741/1605515510x1700338641.png)
