@@ -35,4 +35,10 @@ Vultr教程:
 [VultrVPS服务器购买及使用教程](https://ssr.tools/216)  
 套餐如何选择:目前博主使用的是日本的(个人感觉经济又实惠网速也不错的)  
 ![图片](http://chuantu.xyz/t6/741/1605522480x1033347913.jpg)  
+Vultr VPS服务器购买简易流程  
+![图片](http://chuantu.xyz/t6/741/1605522715x1031866013.png)  
+		* Vultr账号注册  
+![图片](http://chuantu.xyz/t6/741/1605522865x1700338641.png)  
+		*Vultr充值  
+![图片](http://chuantu.xyz/t6/741/1605522979x1033347913.png)  
 
