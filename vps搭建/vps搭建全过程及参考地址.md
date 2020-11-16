@@ -30,7 +30,7 @@
 ![图片](http://chuantu.xyz/t6/741/1605521262x1700338641.png)  
 [如何续费](https://ssr.tools/1293)  
 	- [Vultr](https://www.vultr.com/):`(采纳)`  
-![图片](http://chuantu.xyz/t6/741/1605515510x1700338641.png)
+![图片](http://chuantu.xyz/t6/741/1605515510x1700338641.png)  
 Vultr教程:  
 [VultrVPS服务器购买及使用教程](https://ssr.tools/216)  
 套餐如何选择:目前博主使用的是日本的(个人感觉经济又实惠网速也不错的)  
