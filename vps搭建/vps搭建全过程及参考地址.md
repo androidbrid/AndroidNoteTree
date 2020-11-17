@@ -121,4 +121,5 @@
 			* [SSR Windows客户端](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.0/ShadowsocksR-win-4.9.0.zip)  
 			![图片](http://chuantu.xyz/t6/741/1605594447x1033347913.png)  
 				*	[SSR Windows客户端下载、安装及使用教程](https://ssr.tools/82)  
-
+					*	[SSR Windows客户端下载](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.0/ShadowsocksR-win-4.9.0.zip)  
+						![图片](http://chuantu.xyz/t6/741/1605595303x1031866013.png)  
