@@ -30,22 +30,22 @@
 			![图片](http://chuantu.xyz/t6/741/1605521262x1700338641.png)  
 		* [如何续费](https://ssr.tools/1293)  
 	- [Vultr](https://www.vultr.com/):`(采纳)`  
-			![图片](http://chuantu.xyz/t6/741/1605515510x1700338641.png)  
-			Vultr教程:  
+		![图片](http://chuantu.xyz/t6/741/1605515510x1700338641.png)  
+		* ultr教程:  
 			[VultrVPS服务器购买及使用教程](https://ssr.tools/216)  
-			套餐如何选择:目前博主使用的是日本的(个人感觉经济又实惠网速也不错的)  
+		* 套餐如何选择:目前博主使用的是日本的(个人感觉经济又实惠网速也不错的)  
 			![图片](http://chuantu.xyz/t6/741/1605522480x1033347913.jpg)  
-			Vultr VPS服务器购买简易流程  
+		* Vultr VPS服务器购买简易流程  
 			![图片](http://chuantu.xyz/t6/741/1605522715x1031866013.png)  
-				* [Vultr账号注册](https://www.vultr.com/)  
+			* [Vultr账号注册](https://www.vultr.com/)  
 			![图片](http://chuantu.xyz/t6/741/1605522865x1700338641.png)  
-				* Vultr充值  
+			* Vultr充值  
 			![图片](http://chuantu.xyz/t6/741/1605522979x1033347913.png)  
-				* 确认机房位置  
+			* 确认机房位置  
 			![图片](http://chuantu.xyz/t6/741/1605526887x1700338641.png)  
-				* VPS服务器购买  
+			* VPS服务器购买  
 			![图片](http://chuantu.xyz/t6/741/1605527178x1700338641.png)  
-				* <p id="end">魔改BBR一键安装脚本</font>  
+			* <p id="end">魔改BBR一键安装脚本</font>  
 				关于暴力魔改BBR  
 			![图片](http://chuantu.xyz/t6/741/1605529964x1031866013.png)  
 			原版BBR与魔改BBR加速效果对比测试  
