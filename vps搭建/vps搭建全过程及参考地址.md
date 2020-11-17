@@ -53,8 +53,7 @@
 				1. [Winscp目前官方最新绿色免安装版:](https://winscp.net/download/WinSCP-5.13.3-Portable.zip)  
 				2. [Winscp中文翻译文件:](https://winscp.net/translations/dll/5.13.3/chs.zip)  
 				3. [Putty目前最新版:](https://winscp.net/download/putty.exe)  
-			  
-			* 安装教程
+			* 安装教程  
 			![图片](http://chuantu.xyz/t6/741/1605583787x992248267.png)  
 			* Winscp使用教程  
 			![图片](http://chuantu.xyz/t6/741/1605583896x-1224475230.png)  
