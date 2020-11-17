@@ -46,9 +46,9 @@
 			* VPS服务器购买  
 			![图片](http://chuantu.xyz/t6/741/1605527178x1700338641.png)  
 			* <p id="end">魔改BBR一键安装脚本</font>  
-				1.关于暴力魔改BBR  
+				1. 关于暴力魔改BBR  
 				![图片](http://chuantu.xyz/t6/741/1605529964x1031866013.png)  
-				2.原版BBR与魔改BBR加速效果对比测试  
+				2. 原版BBR与魔改BBR加速效果对比测试  
 				![图片](http://chuantu.xyz/t6/741/1605530222x1033347913.png)  
-				3.魔改BBR一键安装脚本  
+				3. 魔改BBR一键安装脚本  
 				![图片](http://chuantu.xyz/t6/741/1605530507x1700338641.png)  
