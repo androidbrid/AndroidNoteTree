@@ -21,9 +21,9 @@
 			![图片](http://chuantu.xyz/t6/741/1605520498x1031866013.png)  
 		* 搬瓦工购买VPS后的网络优化  
 			![图片](http://chuantu.xyz/t6/741/1605520616x1033347913.png)  
-			*	[BBR一键安装脚本](https://ssr.tools/199)  
-			*	[魔改BBR一键安装脚本(参考VultrBBR步骤)](https://ssr.tools/550) <a href="#end">`本文集成步骤`</a>  
-			*	[BBR Plus一键安装脚本](https://ssr.tools/1217)  
+			-	[BBR一键安装脚本](https://ssr.tools/199)  
+			-	[魔改BBR一键安装脚本(参考VultrBBR步骤)](https://ssr.tools/550) <a href="#end">`本文集成步骤`</a>  
+			-	[BBR Plus一键安装脚本](https://ssr.tools/1217)  
 		* 少数情况下连接速度太慢的解决办法  
 			![图片](http://chuantu.xyz/t6/741/1605521219x1031866013.png)  
 		* 搬瓦工VPS如何续费  
