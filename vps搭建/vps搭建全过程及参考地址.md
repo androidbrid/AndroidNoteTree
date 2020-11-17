@@ -90,5 +90,24 @@
 			![图片](http://chuantu.xyz/t6/741/1605585712x-1224475230.png)  
 			* SSR一键搭建流程  
 			![图片](http://chuantu.xyz/t6/741/1605586208x992249049.png)  
+				*	图中2步骤:涉及到的指令  
+					1.	wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh  
+					2.	chmod +x shadowsocks-all.sh  
+					3.	./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log  
+				*	提示:如果运行上面第一条命令时，出现找不到wget之类的提示,则表明系统没有预装wget，先运行以下命令完成wget的安装  
+					CentOS:  
+						1.	yum -y install wget  
+					Ubuntu/Debian:  
+						1.	apt-get -y install wget  
 			* SSR常用命令  
 			![图片](http://chuantu.xyz/t6/741/1605586268x992248267.png)  
+				*	启动SSR:  
+					1.	/etc/init.d/shadowsocks-r start  
+				*	退出SSR:  
+					1.	/etc/init.d/shadowsocks-r stop  
+				*	重启SSR:  
+					1.	/etc/init.d/shadowsocks-r restart  
+				*	SSR状态:  
+					1.	/etc/init.d/shadowsocks-r status  
+				*	卸载SSR:  
+					1.	./shadowsocks-all.sh uninstall  
