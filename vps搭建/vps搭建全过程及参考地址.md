@@ -72,7 +72,7 @@
 					* CentOS版:  
 						1.bash tcp_nanqinlang-1.3.2.sh  
 			* <p id="winscpPutty">Winscp及Putty下载、安装、使用教程</p>  
-			* 说明  
-			![图片](http://chuantu.xyz/t6/741/1605531470x1033347913.png)  
+				1. 说明  
+				![图片](http://chuantu.xyz/t6/741/1605531470x1033347913.png)  
 			* 下载地址  
 			![图片](http://chuantu.xyz/t6/741/1605531562x1031866013.png)  
