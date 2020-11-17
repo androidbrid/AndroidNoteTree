@@ -50,3 +50,5 @@
 			![图片](http://chuantu.xyz/t6/741/1605531470x1033347913.png)  
 			* 下载地址  
 			![图片](http://chuantu.xyz/t6/741/1605531562x1031866013.png)  
+				1. [Winscp目前官方最新绿色免安装版:](https://winscp.net/download/WinSCP-5.13.3-Portable.zip)
+
