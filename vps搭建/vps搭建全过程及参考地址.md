@@ -116,5 +116,5 @@
 		* <p id="ssrdownload">SSR各平台客户端下载汇总</font>  
 			  
 			##### ShadowSocksR分为服务端和客户端,两者要分别安装,配合使用.服务器一般只需安装一个版本,而客户端则根据平台的不同,分为多个版本.目前SSR客户端的可用平台有:路由器版、Windows版、安卓版、IOS版、MAC版,基本涵盖我们日常使用环境.  
-			* [SSR服务端](https://ssr.tools/31) `<a href="#ssrinstall">本文地址</a>`  
+			* [SSR服务端](https://ssr.tools/31) <a href="#ssrinstall">`本文地址`</a>  
 			![图片](http://chuantu.xyz/t6/741/1605593913x1033347913.png)  
