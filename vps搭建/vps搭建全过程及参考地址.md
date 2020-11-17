@@ -144,7 +144,7 @@
 				*	注意:这个地方使用中国大陆的Apple ID是无法下载Potatso Lite,必须注册一个非大陆的Apple ID才能在APP Store搜到Potatso Lite  
 			* [SSR MAC客户端](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.3-R8-build3/ShadowsocksX-NG-R8.dmg)  
 			![图片](http://chuantu.xyz/t6/741/1605597299x1033347913.png)  
-				*	[SSR MAC客户端ShadowsocksX-NG-R下载、安装及使用教程](https://ssr.tools/164) (最简单扫描Windows客户端二维码添加)  
+				*	[SSR MAC客户端ShadowsocksX-NG-R下载、安装及使用教程](https://ssr.tools/164)  
 			* SSR 路由器客户端  
 			![图片](http://chuantu.xyz/t6/741/1605597462x1031866013.png)  
 				*	[SSR 路由器客户端下载、安装及使用教程](https://ssr.tools/136)  
