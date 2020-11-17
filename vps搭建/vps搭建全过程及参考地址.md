@@ -45,6 +45,15 @@
 			![图片](http://chuantu.xyz/t6/741/1605526887x1700338641.png)  
 			* VPS服务器购买  
 			![图片](http://chuantu.xyz/t6/741/1605527178x1700338641.png)  
+		* Vultr后台管理面板使用  
+			![图片](http://chuantu.xyz/t6/741/1605600169x1033347913.png)  
+		* Vultr的VPS服务器换机房、换IP流程  
+			![图片](http://chuantu.xyz/t6/741/1605600180x1700338641.png)  
+		* Vultr VPS网络提速  
+			![图片](http://chuantu.xyz/t6/741/1605600195x1700338641.png)  
+			1. [BBR一键安装脚本](https://ssr.tools/199)  
+			2. [魔改BBR一键安装脚本(参考VultrBBR步骤)](https://ssr.tools/550) <a href="#end">`本文集成步骤`</a>  
+			3. [BBR Plus一键安装脚本](https://ssr.tools/1217)  
 		* <p id="winscpPutty">Winscp及Putty下载、安装、使用教程</p>  
 			  
 			![图片](http://chuantu.xyz/t6/741/1605531470x1033347913.png)  
