@@ -148,6 +148,6 @@
 			* SSR 路由器客户端  
 			![图片](http://chuantu.xyz/t6/741/1605597462x1031866013.png)  
 				*	[SSR 路由器客户端下载、安装及使用教程](https://ssr.tools/136)  
-
-
-
+	- Linode:`(未采纳)`  
+	- DigitalOcean:`(未采纳)`  
+	![图片](http://chuantu.xyz/t6/741/1605597867x1700338641.png)  
