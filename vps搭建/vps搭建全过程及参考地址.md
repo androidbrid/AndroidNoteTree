@@ -45,33 +45,7 @@
 			![图片](http://chuantu.xyz/t6/741/1605526887x1700338641.png)  
 			* VPS服务器购买  
 			![图片](http://chuantu.xyz/t6/741/1605527178x1700338641.png)  
-			* <p id="end">魔改BBR一键安装脚本</font>  
-				1. 关于暴力魔改BBR  
-				![图片](http://chuantu.xyz/t6/741/1605529964x1031866013.png)  
-				2. 原版BBR与魔改BBR加速效果对比测试  
-				![图片](http://chuantu.xyz/t6/741/1605530222x1033347913.png)  
-				3. 魔改BBR一键安装脚本  
-				![图片](http://chuantu.xyz/t6/741/1605530507x1700338641.png)  
-					3.1. 安装涉及到的指令  
-			        * Debian版:  
-						3.1.1. wget --no-check-certificate https://github.com/tcp-nanqinlang/general/releases/download/3.4.2.1/tcp_nanqinlang-fool-1.3.0.sh  
-						3.1.2. bash tcp_nanqinlang-fool-1.3.0.sh  
-					* CentOS版:  
-						3.1.3. wget --no-check-certificate https://raw.githubusercontent.com/tcp-nanqinlang/general/master/General/CentOS/bash/tcp_nanqinlang-1.3.2.sh  
-						3.1.4. bash tcp_nanqinlang-1.3.2.sh  
-				4. 系统重启完成后,重新Putty连接  
-					* Debian版:  
-						1.bash tcp_nanqinlang-fool-1.3.0.sh  
-					* CentOS版:  
-						1.bash tcp_nanqinlang-1.3.2.sh  
-				5.	魔改BBR卸载  
-				![图片](http://chuantu.xyz/t6/741/1605530913x1031866013.png)  
-					5.1 涉及到的指令  
-					* Debian版:  
-						1.bash tcp_nanqinlang-fool-1.3.0.sh  
-					* CentOS版:  
-						1.bash tcp_nanqinlang-1.3.2.sh  
-			* <p id="winscpPutty">Winscp及Putty下载、安装、使用教程</p>  
-				![图片](http://chuantu.xyz/t6/741/1605531470x1033347913.png)  
+		* <p id="winscpPutty">Winscp及Putty下载、安装、使用教程</p>  
+			![图片](http://chuantu.xyz/t6/741/1605531470x1033347913.png)  
 			* 下载地址  
 			![图片](http://chuantu.xyz/t6/741/1605531562x1031866013.png)  
