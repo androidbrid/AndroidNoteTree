@@ -31,7 +31,7 @@
 		* [如何续费](https://ssr.tools/1293)  
 	- [Vultr](https://www.vultr.com/):`(采纳)`  
 		![图片](http://chuantu.xyz/t6/741/1605515510x1700338641.png)  
-		* ultr教程:  
+		* Vultr教程:  
 			[VultrVPS服务器购买及使用教程](https://ssr.tools/216)  
 		* 套餐如何选择:目前博主使用的是日本的(个人感觉经济又实惠网速也不错的)  
 			![图片](http://chuantu.xyz/t6/741/1605522480x1033347913.jpg)  
@@ -52,3 +52,27 @@
 				![图片](http://chuantu.xyz/t6/741/1605530222x1033347913.png)  
 				3. 魔改BBR一键安装脚本  
 				![图片](http://chuantu.xyz/t6/741/1605530507x1700338641.png)  
+					3.1. 安装涉及到的指令  
+			        * Debian版:  
+						3.1.1. wget --no-check-certificate https://github.com/tcp-nanqinlang/general/releases/download/3.4.2.1/tcp_nanqinlang-fool-1.3.0.sh  
+						3.1.2. bash tcp_nanqinlang-fool-1.3.0.sh  
+					* CentOS版:  
+						3.1.3. wget --no-check-certificate https://raw.githubusercontent.com/tcp-nanqinlang/general/master/General/CentOS/bash/tcp_nanqinlang-1.3.2.sh  
+						3.1.4. bash tcp_nanqinlang-1.3.2.sh  
+				4. 系统重启完成后,重新Putty连接  
+					* Debian版:  
+						1.bash tcp_nanqinlang-fool-1.3.0.sh  
+					* CentOS版:  
+						1.bash tcp_nanqinlang-1.3.2.sh  
+				5.	魔改BBR卸载  
+				![图片](http://chuantu.xyz/t6/741/1605530913x1031866013.png)  
+					5.1 涉及到的指令  
+					* Debian版:  
+						1.bash tcp_nanqinlang-fool-1.3.0.sh  
+					* CentOS版:  
+						1.bash tcp_nanqinlang-1.3.2.sh  
+			* <p id="winscpPutty">Winscp及Putty下载、安装、使用教程</p>  
+			* 说明  
+			![图片](http://chuantu.xyz/t6/741/1605531470x1033347913.png)  
+			* 下载地址  
+			![图片](http://chuantu.xyz/t6/741/1605531562x1031866013.png)  
