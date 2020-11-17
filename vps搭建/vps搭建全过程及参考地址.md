@@ -46,13 +46,13 @@ Vultr VPS服务器购买简易流程
 		* VPS服务器购买  
 ![图片](http://chuantu.xyz/t6/741/1605527178x1700338641.png)  
 		* <p id="end">魔改BBR一键安装脚本</font>  
-关于暴力魔改BBR  
+		关于暴力魔改BBR  
 ![图片](http://chuantu.xyz/t6/741/1605529964x1031866013.png)  
-原版BBR与魔改BBR加速效果对比测试  
+		原版BBR与魔改BBR加速效果对比测试  
 ![图片](http://chuantu.xyz/t6/741/1605530222x1033347913.png)  
-魔改BBR一键安装脚本  
+		魔改BBR一键安装脚本  
 ![图片](http://chuantu.xyz/t6/741/1605530507x1700338641.png)  
-安装涉及到的指令  
+		安装涉及到的指令  
 		* Debian版:  
 			1.wget --no-check-certificate https://github.com/tcp-nanqinlang/general/releases/download/3.4.2.1/tcp_nanqinlang-fool-1.3.0.sh  
 			2.bash tcp_nanqinlang-fool-1.3.0.sh  
