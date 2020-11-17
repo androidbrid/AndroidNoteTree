@@ -121,5 +121,18 @@
 			* [SSR Windows客户端](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.0/ShadowsocksR-win-4.9.0.zip)  
 			![图片](http://chuantu.xyz/t6/741/1605594447x1033347913.png)  
 				*	[SSR Windows客户端下载、安装及使用教程](https://ssr.tools/82)  
-					*	[SSR Windows客户端下载](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.0/ShadowsocksR-win-4.9.0.zip)  
+					1.	[SSR Windows客户端下载](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.0/ShadowsocksR-win-4.9.0.zip)  
 						![图片](http://chuantu.xyz/t6/741/1605595303x1031866013.png)  
+					2.	[SSR Windows客户端安装及运行](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)  
+						![图片](http://chuantu.xyz/t6/741/1605595520x1031866013.png)  
+					3.	SSR客户端使用教程  
+						![图片](http://chuantu.xyz/t6/741/1605595713x1031866013.png)  
+					4.	SSR菜单选项设置  
+						![图片](http://chuantu.xyz/t6/741/1605595911x1033347913.png)  
+					5.	如何设置SSR开机启动  
+						![图片](http://chuantu.xyz/t6/741/1605595985x1033347913.png)  
+					6.	如何让局域网其它设备连接SSR  
+						![图片](http://chuantu.xyz/t6/741/1605596062x1700338641.png)  
+					7.	SSR如何通过GFWList只能分流  
+						![图片](http://http://chuantu.xyz/t6/741/1605596151x1700338641.png)  
+
