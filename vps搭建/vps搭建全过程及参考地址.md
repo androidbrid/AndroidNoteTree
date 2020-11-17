@@ -45,9 +45,7 @@
 			![图片](http://chuantu.xyz/t6/741/1605526887x1700338641.png)  
 			* VPS服务器购买  
 			![图片](http://chuantu.xyz/t6/741/1605527178x1700338641.png)  
-		* Winscp及Putty下载、安装、使用教程
-			* <p id="winscpPutty">Winscp及Putty下载、安装、使用教程</p>  
-
+		* 通用--><p id="winscpPutty">Winscp及Putty下载、安装、使用教程</p>
 			![图片](http://chuantu.xyz/t6/741/1605531470x1033347913.png)  
 			* 下载地址  
 			![图片](http://chuantu.xyz/t6/741/1605531562x1031866013.png)  
