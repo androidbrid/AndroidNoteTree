@@ -86,3 +86,9 @@
 							1.	bash tcp_nanqinlang-fool-1.3.0.sh  
 					*	CentOS版:  
 							1.	bash tcp_nanqinlang-1.3.2.sh  
+		* SSR一键安装脚本  
+			![图片](http://chuantu.xyz/t6/741/1605585712x-1224475230.png)  
+			* SSR一键搭建流程  
+			![图片](http://chuantu.xyz/t6/741/1605586208x992249049.png)  
+			* SSR常用命令  
+			![图片](http://chuantu.xyz/t6/741/1605586268x992248267.png)  
