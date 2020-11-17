@@ -147,7 +147,7 @@
 			* [SSR安卓客户端](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk)  
 			![图片](http://chuantu.xyz/t6/741/1605596493x1700338641.png)  
 				*	[SSR安卓手机客户端下载、安装及使用教程](https://ssr.tools/97) (最简单扫描Windows客户端二维码添加)  
-			* [SSR 苹果ios客户端 ](https://ssr.tools/104)  
+			* [SSR 苹果ios客户端 ](https://ssr.tools/104) [其他链接](https://ssr.tools/122)  
 			![图片](http://chuantu.xyz/t6/741/1605596772x1700338641.png)  
 				*	[SSR 苹果ios客户端安装及使用教程](https://ssr.tools/125) (最简单扫描Windows客户端二维码添加)  
 				*	注意:这个地方使用中国大陆的Apple ID是无法下载Potatso Lite,必须注册一个非大陆的Apple ID才能在APP Store搜到Potatso Lite  
