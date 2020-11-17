@@ -86,7 +86,8 @@
 							1.	bash tcp_nanqinlang-fool-1.3.0.sh  
 					*	CentOS版:  
 							1.	bash tcp_nanqinlang-1.3.2.sh  
-		* SSR一键安装脚本  
+		* <p id="ssrinstall">SSR一键安装脚本</font>  
+			  
 			![图片](http://chuantu.xyz/t6/741/1605585712x-1224475230.png)  
 			* SSR一键搭建流程  
 			![图片](http://chuantu.xyz/t6/741/1605586208x992249049.png)  
@@ -114,4 +115,6 @@
 					1.	./shadowsocks-all.sh uninstall  
 		* <p id="ssrdownload">SSR各平台客户端下载汇总</font>  
 			  
-			### ShadowSocksR分为服务端和客户端,两者要分别安装,配合使用.服务器一般只需安装一个版本,而客户端则根据平台的不同,分为多个版本.目前SSR客户端的可用平台有:路由器版、Windows版、安卓版、IOS版、MAC版,基本涵盖我们日常使用环境.  
+			##### ShadowSocksR分为服务端和客户端,两者要分别安装,配合使用.服务器一般只需安装一个版本,而客户端则根据平台的不同,分为多个版本.目前SSR客户端的可用平台有:路由器版、Windows版、安卓版、IOS版、MAC版,基本涵盖我们日常使用环境.  
+			* [SSR服务端](https://ssr.tools/31) `<a href="#ssrinstall">本文地址</a>`  
+			![图片](http://chuantu.xyz/t6/741/1605593913x1033347913.png)  
