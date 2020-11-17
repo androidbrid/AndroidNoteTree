@@ -57,3 +57,5 @@
 			![图片](http://chuantu.xyz/t6/741/1605583787x992248267.png)  
 			* Winscp使用教程  
 			![图片](http://chuantu.xyz/t6/741/1605583896x-1224475230.png)  
+			* Putty使用教程  
+			![图片](http://chuantu.xyz/t6/741/1605584318x1700338641.png)  
