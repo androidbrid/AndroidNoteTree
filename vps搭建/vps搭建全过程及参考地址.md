@@ -134,5 +134,5 @@
 					6.	如何让局域网其它设备连接SSR  
 						![图片](http://chuantu.xyz/t6/741/1605596062x1700338641.png)  
 					7.	SSR如何通过GFWList只能分流  
-						![图片](http://http://chuantu.xyz/t6/741/1605596151x1700338641.png)  
+						![图片](http://chuantu.xyz/t6/741/1605596352x1031866013.png)  
 
