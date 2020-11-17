@@ -99,6 +99,7 @@
 						1.	yum -y install wget  
 					Ubuntu/Debian:  
 						1.	apt-get -y install wget  
+				<a href="#ssrdownload">SSR各平台客户端下载汇总</a>  
 			* SSR常用命令  
 			![图片](http://chuantu.xyz/t6/741/1605586268x992248267.png)  
 				*	启动SSR:  
@@ -111,3 +112,6 @@
 					1.	/etc/init.d/shadowsocks-r status  
 				*	卸载SSR:  
 					1.	./shadowsocks-all.sh uninstall  
+		* <p id="ssrdownload">SSR各平台客户端下载汇总</font>  
+			  
+			### ShadowSocksR分为服务端和客户端,两者要分别安装,配合使用.服务器一般只需安装一个版本,而客户端则根据平台的不同,分为多个版本.目前SSR客户端的可用平台有:路由器版、Windows版、安卓版、IOS版、MAC版,基本涵盖我们日常使用环境.  
