@@ -126,24 +126,24 @@
 			  
 			##### ShadowSocksR分为服务端和客户端,两者要分别安装,配合使用.服务器一般只需安装一个版本,而客户端则根据平台的不同,分为多个版本.目前SSR客户端的可用平台有:路由器版、Windows版、安卓版、IOS版、MAC版,基本涵盖我们日常使用环境.  
 			* [SSR服务端](https://ssr.tools/31) <a href="#ssrinstall">`本文地址`</a>  
-			![图片](http://chuantu.xyz/t6/741/1605593913x1033347913.png)  
+			![图片](http://xiaofengsky.free.fr/upload/7aa1674b7403f4373de3ec4f5b049f84.png)  
 			* [SSR Windows客户端](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.0/ShadowsocksR-win-4.9.0.zip)  
-			![图片](http://chuantu.xyz/t6/741/1605594447x1033347913.png)  
+			![图片](http://xiaofengsky.free.fr/upload/a5cbe328008ea7982d84eb89f1381e75.png)  
 				*	[SSR Windows客户端下载、安装及使用教程](https://ssr.tools/82)  
 					1.	[SSR Windows客户端下载](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.0/ShadowsocksR-win-4.9.0.zip)  
-						![图片](http://chuantu.xyz/t6/741/1605595303x1031866013.png)  
+						![图片](http://xiaofengsky.free.fr/upload/c2693f35a9e19e3c4f5185e49c22e7aa.png)  
 					2.	[SSR Windows客户端安装及运行](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)  
-						![图片](http://chuantu.xyz/t6/741/1605595520x1031866013.png)  
+						![图片](http://xiaofengsky.free.fr/upload/2d4613ac4e948f53bf1c7974287ea63f.png)  
 					3.	SSR客户端使用教程  
-						![图片](http://chuantu.xyz/t6/741/1605595713x1031866013.png)  
+						![图片](http://xiaofengsky.free.fr/upload/4705b9463c99c4ddf0a372e8d0014898.png)  
 					4.	SSR菜单选项设置  
-						![图片](http://chuantu.xyz/t6/741/1605595911x1033347913.png)  
+						![图片](http://xiaofengsky.free.fr/upload/33c01deb6d780a113bc3039c324d9878.png)  
 					5.	如何设置SSR开机启动  
-						![图片](http://chuantu.xyz/t6/741/1605595985x1033347913.png)  
+						![图片](http://xiaofengsky.free.fr/upload/4a864b72ccb1627a5c45d130307b08f3.png)  
 					6.	如何让局域网其它设备连接SSR  
-						![图片](http://chuantu.xyz/t6/741/1605596062x1700338641.png)  
+						![图片](http://xiaofengsky.free.fr/upload/69404ef381ec23bae28090d2d4920b6f.png)  
 					7.	SSR如何通过GFWList只能分流  
-						![图片](http://chuantu.xyz/t6/741/1605596352x1031866013.png)  
+						![图片](http://xiaofengsky.free.fr/upload/faaba2ff0e769c83bd7ea2e06dc47b4e.png)  
 			* [SSR安卓客户端](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk)  
 			![图片](http://chuantu.xyz/t6/741/1605596493x1700338641.png)  
 				*	[SSR安卓手机客户端下载、安装及使用教程](https://ssr.tools/97) (最简单扫描Windows客户端二维码添加)  
