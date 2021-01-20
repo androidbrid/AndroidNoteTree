@@ -56,18 +56,18 @@
 			3. [BBR Plus一键安装脚本](https://ssr.tools/1217)  
 		* <p id="winscpPutty">Winscp及Putty下载、安装、使用教程</p>  
 			  
-			![图片](http://chuantu.xyz/t6/741/1605531470x1033347913.png)  
+			![图片](http://xiaofengsky.free.fr/upload/8e53f69a6ed61c8ef6f06054d9c85f7b.png)  
 			* 下载地址  
-			![图片](http://chuantu.xyz/t6/741/1605531562x1031866013.png)  
+			![图片](http://xiaofengsky.free.fr/upload/9d60470a9e7356eec329fd2c96651e7f.png)  
 				1. [Winscp目前官方最新绿色免安装版:](https://winscp.net/download/WinSCP-5.13.3-Portable.zip)  
 				2. [Winscp中文翻译文件:](https://winscp.net/translations/dll/5.13.3/chs.zip)  
 				3. [Putty目前最新版:](https://winscp.net/download/putty.exe)  
 			* 安装教程  
-			![图片](http://chuantu.xyz/t6/741/1605583787x992248267.png)  
+			![图片](http://xiaofengsky.free.fr/upload/670df7b9b7f55111effa9fdea56854d1.png)  
 			* Winscp使用教程  
-			![图片](http://chuantu.xyz/t6/741/1605583896x-1224475230.png)  
+			![图片](http://xiaofengsky.free.fr/upload/b54b98550f6b0020c01ebe729580abe2.png)  
 			* Putty使用教程  
-			![图片](http://chuantu.xyz/t6/741/1605584318x1700338641.png)  
+			![图片](http://xiaofengsky.free.fr/upload/4386302cbfd460d09b7eaad9f116aca4.png)  
 		* <p id="end">魔改BBR一键安装脚本</font>  
 			  
 			* 关于暴力魔改BBR  
