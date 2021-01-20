@@ -97,9 +97,9 @@
 							1.	bash tcp_nanqinlang-1.3.2.sh  
 		* <p id="ssrinstall">SSR一键安装脚本</font>  
 			  
-			![图片](http://chuantu.xyz/t6/741/1605585712x-1224475230.png)  
+			![图片](http://xiaofengsky.free.fr/upload/f727c5c46d57f751d409f3af061b4c97.png)  
 			* SSR一键搭建流程  
-			![图片](http://chuantu.xyz/t6/741/1605586208x992249049.png)  
+			![图片](http://xiaofengsky.free.fr/upload/f517d15ec07719ab11f086d688b9dba4.png)  
 				*	图中2步骤:涉及到的指令  
 					1.	wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh  
 					2.	chmod +x shadowsocks-all.sh  
@@ -111,7 +111,7 @@
 						1.	apt-get -y install wget  
 				<a href="#ssrdownload">SSR各平台客户端下载汇总</a>  
 			* SSR常用命令  
-			![图片](http://chuantu.xyz/t6/741/1605586268x992248267.png)  
+			![图片](http://xiaofengsky.free.fr/upload/8b0a117a7374f58a83dc5ade306c62f1.png)  
 				*	启动SSR:  
 					1.	/etc/init.d/shadowsocks-r start  
 				*	退出SSR:  
