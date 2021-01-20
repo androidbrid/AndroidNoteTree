@@ -4,30 +4,30 @@
 		* 搬瓦工教程:  
 			[搬瓦工VPS服务器购买及用教程](https://ssr.tools/208)  
 		* 套餐如何选择  
-			![图片](http://chuantu.xyz/t6/741/1605517885x1033347913.png)  
+			![图片](http://xiaofengsky.free.fr/upload/3d8465685d9c639b9222c3817b6311e5.png)  
 		* [全部套餐列表](https://bwh88.net/cart.php?gid=1)  
 		* 支付宝支付注意事项  
-			![图片](http://chuantu.xyz/t6/741/1605518316x1031866013.png)  
+			![图片](http://xiaofengsky.free.fr/upload/5676361249278dc1ac7efc97a34107ce.png)  
 		* 购买流程  
-			![图片](http://chuantu.xyz/t6/741/1605518441x1031866013.png)  
+			![图片](http://xiaofengsky.free.fr/upload/92207fd51b036542e22256d15c7e1291.png)  
 		* [优惠码](https://www.wervps.com/bwh1pice)  
-			![图片](http://chuantu.xyz/t6/741/1605518537x1700338641.png)  
+			![图片](http://xiaofengsky.free.fr/upload/a693dbb613ea276fb021fb93486e92eb.png)  
 		* 搬瓦工测试IP  
-			![图片](http://chuantu.xyz/t6/741/1605519083x1031866013.png)  
+			![图片](http://xiaofengsky.free.fr/upload/91a31421a1dd5fe4d43099550a7b94d6.png)  
 		* 搬瓦工支付宝购买流程  
-			![图片](http://chuantu.xyz/t6/741/1605520117x1700338641.png)  
+			![图片](http://xiaofengsky.free.fr/upload/e1c1542c26ae14dc64825f15ac56912a.png)  
 			<a href="#winscpPutty">使用Winscp和Putty请参考Vultr,下面会有具体的使用步骤</a>  
 		* 搬瓦工后台面板简介  
-			![图片](http://chuantu.xyz/t6/741/1605520498x1031866013.png)  
+			![图片](http://xiaofengsky.free.fr/upload/5e60a027fb6c845a36a32a81be17f4f5.png)  
 		* 搬瓦工购买VPS后的网络优化  
-			![图片](http://chuantu.xyz/t6/741/1605520616x1033347913.png)  
+			![图片](http://xiaofengsky.free.fr/upload/3217053b72ffe3d344059a6386e08efd.png)  
 			1. [BBR一键安装脚本](https://ssr.tools/199)  
 			2. [魔改BBR一键安装脚本(参考VultrBBR步骤)](https://ssr.tools/550) <a href="#end">`本文集成步骤`</a>  
 			3. [BBR Plus一键安装脚本](https://ssr.tools/1217)  
 		* 少数情况下连接速度太慢的解决办法  
-			![图片](http://chuantu.xyz/t6/741/1605521219x1031866013.png)  
+			![图片](http://xiaofengsky.free.fr/upload/33eb63fb13b4098379f69ec1582e4919.png)  
 		* 搬瓦工VPS如何续费  
-			![图片](http://chuantu.xyz/t6/741/1605521262x1700338641.png)  
+			![图片](http://xiaofengsky.free.fr/upload/87b8e14a7187e14352c291b0b15eb59f.png)  
 		* [如何续费](https://ssr.tools/1293)  
 	- [Vultr](https://www.vultr.com/):`(采纳)`  
 		![图片](http://chuantu.xyz/t6/741/1605515510x1700338641.png)  
