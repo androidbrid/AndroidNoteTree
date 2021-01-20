@@ -30,27 +30,27 @@
 			![图片](http://xiaofengsky.free.fr/upload/87b8e14a7187e14352c291b0b15eb59f.png)  
 		* [如何续费](https://ssr.tools/1293)  
 	- [Vultr](https://www.vultr.com/):`(采纳)`  
-		![图片](http://chuantu.xyz/t6/741/1605515510x1700338641.png)  
+		![图片](http://xiaofengsky.free.fr/upload/0180c37f3a2b42d08ae57cf75311a5c0.png)  
 		* Vultr教程:  
 			[VultrVPS服务器购买及使用教程](https://ssr.tools/216)  
 		* 套餐如何选择:目前博主使用的是日本的(个人感觉经济又实惠网速也不错的)  
-			![图片](http://chuantu.xyz/t6/741/1605522480x1033347913.jpg)  
+			![图片](http://xiaofengsky.free.fr/upload/ca580c9e71b6a0bf2983b8f4c3dc0b11.png)  
 		* Vultr VPS服务器购买简易流程  
-			![图片](http://chuantu.xyz/t6/741/1605522715x1031866013.png)  
+			![图片](http://xiaofengsky.free.fr/upload/faeb7ed03292dee7954edc9bab51ff1b.png)  
 			* [Vultr账号注册](https://www.vultr.com/)  
-			![图片](http://chuantu.xyz/t6/741/1605522865x1700338641.png)  
+			![图片](http://xiaofengsky.free.fr/upload/caa354fc09b6a2376306016f184ee638.png)  
 			* Vultr充值  
-			![图片](http://chuantu.xyz/t6/741/1605522979x1033347913.png)  
+			![图片](http://xiaofengsky.free.fr/upload/70dc91d2e86a2affeb63ea335c8c06f4.png)  
 			* 确认机房位置  
-			![图片](http://chuantu.xyz/t6/741/1605526887x1700338641.png)  
+			![图片](http://xiaofengsky.free.fr/upload/1c3bab0d0398917cafdad278d5be012a.png)  
 			* VPS服务器购买  
-			![图片](http://chuantu.xyz/t6/741/1605527178x1700338641.png)  
+			![图片](http://xiaofengsky.free.fr/upload/b802d3c5b75d8cb2ac34c184db9b7b1a.png)  
 		* Vultr后台管理面板使用  
-			![图片](http://chuantu.xyz/t6/741/1605600169x1033347913.png)  
+			![图片](http://xiaofengsky.free.fr/upload/79465d7e6002042c360a9074bf1accb9.png)  
 		* Vultr的VPS服务器换机房、换IP流程  
-			![图片](http://chuantu.xyz/t6/741/1605600180x1700338641.png)  
+			![图片](http://xiaofengsky.free.fr/upload/f441322ebd7b131062b5c1f8c24d4419.png)  
 		* Vultr VPS网络提速  
-			![图片](http://chuantu.xyz/t6/741/1605600195x1700338641.png)  
+			![图片](http://xiaofengsky.free.fr/upload/682ffa55a6fa36baed19fedcd7359b14.png)  
 			1. [BBR一键安装脚本](https://ssr.tools/199)  
 			2. [魔改BBR一键安装脚本(参考VultrBBR步骤)](https://ssr.tools/550) <a href="#end">`本文集成步骤`</a>  
 			3. [BBR Plus一键安装脚本](https://ssr.tools/1217)  
