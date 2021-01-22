@@ -165,4 +165,4 @@
 				*	[SSR 路由器客户端下载、安装及使用教程](https://ssr.tools/136)  
 	- Linode:`(未采纳)`  
 	- DigitalOcean:`(未采纳)`  
-	![图片](http://chuantu.xyz/t6/741/1605597867x1700338641.png)  
+	![图片](http://xiaofengsky.free.fr/upload/9d69819b1c6c4859bc0ab01919d50b66.png)  
