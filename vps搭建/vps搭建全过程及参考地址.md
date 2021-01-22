@@ -145,8 +145,14 @@
 					7.	SSR如何通过GFWList只能分流  
 						![图片](http://xiaofengsky.free.fr/upload/faaba2ff0e769c83bd7ea2e06dc47b4e.png)  
 			* [SSR安卓客户端](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk)  
-			![图片](http://chuantu.xyz/t6/741/1605596493x1700338641.png)  
+			![图片](http://xiaofengsky.free.fr/upload/17510aacd57dcc2219b479e7495e99b8.png)  
 				*	[SSR安卓手机客户端下载、安装及使用教程](https://ssr.tools/97) (最简单扫描Windows客户端二维码添加)  
+					1.	SSR安卓版安装及使用教程  
+						![图片](http://xiaofengsky.free.fr/upload/50d4417f61bb0ee263cdf562b9d47ebd.png)  
+					2.	SSR安卓版菜单选项设置  
+						![图片](http://xiaofengsky.free.fr/upload/caf443353a4a36ccec77d624891d74ba.png)  
+					3.	其他功能  
+						![图片](http://xiaofengsky.free.fr/upload/ac9c93ec84ad831df5a3333ea13c2a2c.png)  
 			* [SSR 苹果ios客户端 ](https://ssr.tools/104) [其他链接](https://ssr.tools/122)  
 			![图片](http://chuantu.xyz/t6/741/1605596772x1700338641.png)  
 				*	[SSR 苹果ios客户端安装及使用教程](https://ssr.tools/125) (最简单扫描Windows客户端二维码添加)  
