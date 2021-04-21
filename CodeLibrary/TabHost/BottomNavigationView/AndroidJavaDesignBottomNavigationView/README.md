@@ -12,7 +12,8 @@
 		3. 设置图标大小、调整导航栏高度及图标和文字之间的间距需要重写dimens
 		dimens:design_bottom_navigation_margin、design_bottom_navigation_icon_size、design_bottom_navigation_height
 3. 实现效果展示(gif):  
-![image](https://github.com/androidbrid/AndroidNoteTree/blob/master/CodeLibrary/TabHost/BottomNavigationView/AndroidJavaDesignBottomNavigationView/1111111.gif)
+ ![dl](source/1111111.gif)
 4. 实现效果apk:  
+ ![dl](source/app-debug.apk)
  <a href="https://github.com/androidbrid/AndroidNoteTree/blob/master/CodeLibrary/TabHost/BottomNavigationView/AndroidJavaDesignBottomNavigationView/app-debug.apk" download="app-debug.apk">**==*apk下载*==**</a>
 
