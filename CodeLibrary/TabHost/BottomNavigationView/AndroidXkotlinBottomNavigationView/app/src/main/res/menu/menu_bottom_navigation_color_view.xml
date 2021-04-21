@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_bottom_1"
+        android:enabled="true"
+        android:icon="@drawable/ic_white_home"
+        android:title="首页"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/item_bottom_2"
+        android:enabled="true"
+        android:icon="@drawable/ic_white_find"
+        android:title="发现"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/item_bottom_3"
+        android:enabled="true"
+        android:icon="@drawable/ic_white_msg"
+        android:title="消息"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/item_bottom_4"
+        android:enabled="true"
+        android:icon="@drawable/ic_white_member"
+        android:title="会员"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/item_bottom_5"
+        android:enabled="true"
+        android:icon="@drawable/ic_white_me"
+        android:title="我的"
+        app:showAsAction="ifRoom" />
+</menu>
