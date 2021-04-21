@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="spinnerStr">
-        <item>LABEL_VISIBILITY_AUTO</item>
-        <item>LABEL_VISIBILITY_SELECTED</item>
-        <item>LABEL_VISIBILITY_LABELED</item>
-        <item>LABEL_VISIBILITY_UNLABELED</item>
-    </string-array>
-</resources>

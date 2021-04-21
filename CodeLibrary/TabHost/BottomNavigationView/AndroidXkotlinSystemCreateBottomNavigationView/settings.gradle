@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "Androidx_kotlin"
