@@ -2,9 +2,16 @@
 .gradle
 /local.properties
 /.idea/caches
+/.idea/codeStyles
 /.idea/libraries
 /.idea/modules.xml
+/.idea/.name
+/.idea/gradle.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
 /.idea/workspace.xml
+/.idea/runConfigurations.xml
+/.idea/vcs.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
 .DS_Store
