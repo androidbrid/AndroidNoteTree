@@ -11,6 +11,6 @@
 		2. 无角标设置api支持,需要自己单独加载布局,并且角标的位置不可控需要自己调整位置
 		3. 设置图标大小、调整导航栏高度及图标和文字之间的间距需要重写dimens
 		dimens:design_bottom_navigation_margin、design_bottom_navigation_icon_size、design_bottom_navigation_height
-3. 实现效果展示(gif):
-	![image](https://github.com/androidbrid/AndroidNoteTree/blob/master/CodeLibrary/TabHost/BottomNavigationView/AndroidJavaDesignBottomNavigationView/1111111.gif)
+3. 实现效果展示(gif):  
+![image](https://github.com/androidbrid/AndroidNoteTree/blob/master/CodeLibrary/TabHost/BottomNavigationView/AndroidJavaDesignBottomNavigationView/1111111.gif)
 4. 实现效果apk：
