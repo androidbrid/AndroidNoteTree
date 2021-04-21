@@ -67,11 +67,13 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun initClick() {
+        //1.FrameLayout+BottomNavigationView实现
         activity_main_viewPage.visibility = View.GONE
         activity_main_fLayout.visibility = View.VISIBLE
         var mFragmentManager =
             FragmentChangeManager(supportFragmentManager, R.id.activity_main_fLayout, mList)
 
+        //2.ViewPager+BottomNavigationView实现
 //        mMenuItem = activity_main_bottomNavigationView.menu.getItem(0)
 //        activity_main_bottomNavigationView.menu.getItem(0).isChecked = true
 //        activity_main_viewPage.visibility = View.VISIBLE
