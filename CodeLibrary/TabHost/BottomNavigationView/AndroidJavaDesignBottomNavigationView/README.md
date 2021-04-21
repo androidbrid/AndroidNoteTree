@@ -14,5 +14,5 @@
 3. 实现效果展示(gif):  
 ![image](https://github.com/androidbrid/AndroidNoteTree/blob/master/CodeLibrary/TabHost/BottomNavigationView/AndroidJavaDesignBottomNavigationView/1111111.gif)
 4. 实现效果apk:  
- [***==apk下载==***](https://github.com/androidbrid/AndroidNoteTree/blob/master/CodeLibrary/TabHost/BottomNavigationView/AndroidJavaDesignBottomNavigationView/app-debug.apk)
+ <a href="https://github.com/androidbrid/AndroidNoteTree/blob/master/CodeLibrary/TabHost/BottomNavigationView/AndroidJavaDesignBottomNavigationView/app-debug.apk" target="_blank">**==*apk下载*==**</a>
 
