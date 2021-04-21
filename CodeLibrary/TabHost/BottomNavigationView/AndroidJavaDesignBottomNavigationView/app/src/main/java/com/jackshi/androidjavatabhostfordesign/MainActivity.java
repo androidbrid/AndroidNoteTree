@@ -97,15 +97,15 @@ public class MainActivity extends AppCompatActivity {
         tv.setText("" + 50);
 
         //1.FrameLayout+BottomNavigationView实现
-//        mFrameLayout.setVisibility(View.VISIBLE);
-//        mViewPager.setVisibility(View.GONE);
-//        mChangeManager = new FragmentChangeManager(getSupportFragmentManager(), R.id.activity_main_fLayout, mList);
+        mFrameLayout.setVisibility(View.VISIBLE);
+        mViewPager.setVisibility(View.GONE);
+        mChangeManager = new FragmentChangeManager(getSupportFragmentManager(), R.id.activity_main_fLayout, mList);
 
-       //2.ViewPager+BottomNavigationView实现
-        mFrameLayout.setVisibility(View.GONE);
-        mViewPager.setVisibility(View.VISIBLE);
-        mViewPager.setAdapter(new MyPagerAdapter(getSupportFragmentManager(), mList, mMenuItem));
-        mViewPager.setCurrentItem(0);
+//       //2.ViewPager+BottomNavigationView实现
+//        mFrameLayout.setVisibility(View.GONE);
+//        mViewPager.setVisibility(View.VISIBLE);
+//        mViewPager.setAdapter(new MyPagerAdapter(getSupportFragmentManager(), mList, mMenuItem));
+//        mViewPager.setCurrentItem(0);
     }
 
     private void initClick() {
@@ -115,24 +115,24 @@ public class MainActivity extends AppCompatActivity {
                 mMenuItem = menuItem;
                 switch (menuItem.getItemId()) {
                     case R.id.item_bottom_1:
-//                        mChangeManager.setFragments(0);
-                        mViewPager.setCurrentItem(0);
+                        mChangeManager.setFragments(0);
+//                        mViewPager.setCurrentItem(0);
                         break;
                     case R.id.item_bottom_2:
-//                        mChangeManager.setFragments(1);
-                        mViewPager.setCurrentItem(1);
+                        mChangeManager.setFragments(1);
+//                        mViewPager.setCurrentItem(1);
                         break;
                     case R.id.item_bottom_3:
-//                        mChangeManager.setFragments(2);
-                        mViewPager.setCurrentItem(2);
+                        mChangeManager.setFragments(2);
+//                        mViewPager.setCurrentItem(2);
                         break;
                     case R.id.item_bottom_4:
-//                        mChangeManager.setFragments(3);
-                        mViewPager.setCurrentItem(3);
+                        mChangeManager.setFragments(3);
+//                        mViewPager.setCurrentItem(3);
                         break;
                     case R.id.item_bottom_5:
-//                        mChangeManager.setFragments(4);
-                        mViewPager.setCurrentItem(4);
+                        mChangeManager.setFragments(4);
+//                        mViewPager.setCurrentItem(4);
                         break;
                     default:
                         break;
@@ -165,26 +165,26 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        mViewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
-            @Override
-            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
-            }
-
-            @Override
-            public void onPageSelected(int position) {
-                if (mMenuItem != null) {
-                    mMenuItem.setChecked(false);
-                } else {
-                    mBottomNavigationView.getMenu().getItem(0).setChecked(false);
-                }
-                mMenuItem = mBottomNavigationView.getMenu().getItem(position);
-                mMenuItem.setChecked(true);
-            }
-
-            @Override
-            public void onPageScrollStateChanged(int state) {
-            }
-        });
+//        mViewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+//            @Override
+//            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
+//            }
+//
+//            @Override
+//            public void onPageSelected(int position) {
+//                if (mMenuItem != null) {
+//                    mMenuItem.setChecked(false);
+//                } else {
+//                    mBottomNavigationView.getMenu().getItem(0).setChecked(false);
+//                }
+//                mMenuItem = mBottomNavigationView.getMenu().getItem(position);
+//                mMenuItem.setChecked(true);
+//            }
+//
+//            @Override
+//            public void onPageScrollStateChanged(int state) {
+//            }
+//        });
     }
 
     @Subscribe(threadMode = ThreadMode.MAIN)
