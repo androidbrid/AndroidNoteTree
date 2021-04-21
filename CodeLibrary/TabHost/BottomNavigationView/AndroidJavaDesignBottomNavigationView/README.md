@@ -13,4 +13,6 @@
 		dimens:design_bottom_navigation_margin、design_bottom_navigation_icon_size、design_bottom_navigation_height
 3. 实现效果展示(gif):  
 ![image](https://github.com/androidbrid/AndroidNoteTree/blob/master/CodeLibrary/TabHost/BottomNavigationView/AndroidJavaDesignBottomNavigationView/1111111.gif)
-4. 实现效果apk：
+4. 实现效果apk:  
+ [***==apk下载==***](https://github.com/androidbrid/AndroidNoteTree/blob/master/CodeLibrary/TabHost/BottomNavigationView/AndroidJavaDesignBottomNavigationView/app-debug.apk)
+
