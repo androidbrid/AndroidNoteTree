@@ -1,5 +1,12 @@
-<resources>
-    <!-- Default screen margins, per the Android Design guidelines. -->
-    <dimen name="activity_horizontal_margin">16dp</dimen>
-    <dimen name="activity_vertical_margin">16dp</dimen>
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--修改文字和图片的间距:默认值是8,值越小文字和图标之间的间距越大,值越大文字和图标之间的间距越小,文字距离顶部距离越大-->
+    <dimen name="design_bottom_navigation_margin" tools:override="true">12dp</dimen>
+    <!--修改图标大小:默认值是24 -->
+    <dimen name="design_bottom_navigation_icon_size" tools:override="true">34dp</dimen>
+    <!--修改导航栏高度:默认值是56 -->
+    <dimen name="design_bottom_navigation_height" tools:override="true">76dp</dimen>
+    <!--修改文字选中未选择大小:修改无效果(用itemTextAppearanceActive和itemTextAppearanceInactive替代)-->
+    <!--    <dimen name="design_bottom_navigation_text_size" tools:override="true">24sp</dimen>-->
+    <!--    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">24sp</dimen>-->
 </resources>

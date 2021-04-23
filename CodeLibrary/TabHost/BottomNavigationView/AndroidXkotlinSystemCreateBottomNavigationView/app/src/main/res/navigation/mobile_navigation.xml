@@ -12,14 +12,26 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
-        android:name="com.jackshi.androidx_kotlin.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        android:id="@+id/navigation_find"
+        android:name="com.jackshi.androidx_kotlin.ui.find.FindFragment"
+        android:label="@string/title_find"
+        tools:layout="@layout/fragment_find" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
-        android:name="com.jackshi.androidx_kotlin.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        android:id="@+id/navigation_message"
+        android:name="com.jackshi.androidx_kotlin.ui.message.MessageFragment"
+        android:label="@string/title_message"
+        tools:layout="@layout/fragment_message" />
+
+    <fragment
+        android:id="@+id/navigation_member"
+        android:name="com.jackshi.androidx_kotlin.ui.member.MemberFragment"
+        android:label="@string/title_member"
+        tools:layout="@layout/member_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_me"
+        android:name="com.jackshi.androidx_kotlin.ui.me.MeFragment"
+        android:label="@string/title_me"
+        tools:layout="@layout/me_fragment" />
 </navigation>

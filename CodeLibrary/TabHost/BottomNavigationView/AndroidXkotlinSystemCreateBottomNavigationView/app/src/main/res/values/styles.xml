@@ -12,4 +12,12 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <!--没有选中的样式-->
+    <style name="bottom_normal_text">
+        <item name="android:textSize">12sp</item>
+    </style>
+    <!--选中的样式-->
+    <style name="bottom_selected_text">
+        <item name="android:textSize">18sp</item>
+    </style>
 </resources>

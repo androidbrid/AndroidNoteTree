@@ -1,19 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
         android:id="@+id/navigation_home"
-        android:icon="@drawable/ic_home_black_24dp"
-        android:title="@string/title_home" />
+        android:enabled="true"
+        android:icon="@drawable/ic_white_home"
+        android:title="@string/title_home"
+        app:showAsAction="ifRoom" />
 
     <item
-        android:id="@+id/navigation_dashboard"
-        android:icon="@drawable/ic_dashboard_black_24dp"
-        android:title="@string/title_dashboard" />
+        android:id="@+id/navigation_find"
+        android:enabled="true"
+        android:icon="@drawable/ic_white_find"
+        android:title="@string/title_find"
+        app:showAsAction="ifRoom" />
 
     <item
-        android:id="@+id/navigation_notifications"
-        android:icon="@drawable/ic_notifications_black_24dp"
-        android:title="@string/title_notifications" />
+        android:id="@+id/navigation_message"
+        android:enabled="true"
+        android:icon="@drawable/ic_white_msg"
+        android:title="@string/title_message"
+        app:showAsAction="ifRoom" />
 
+    <item
+        android:id="@+id/navigation_member"
+        android:enabled="true"
+        android:icon="@drawable/ic_white_member"
+        android:title="@string/title_member"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/navigation_me"
+        android:enabled="true"
+        android:icon="@drawable/ic_white_me"
+        android:title="@string/title_me"
+        app:showAsAction="ifRoom" />
 </menu>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -14,9 +14,42 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:textAlignment="center"
+        android:visibility="gone"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+
+    <CheckBox
+        android:id="@+id/fragment_home_check1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="移除自带的水波纹" />
+
+    <CheckBox
+        android:id="@+id/fragment_home_check2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/fragment_home_check1"
+        android:text="移除自带的缩放" />
+
+    <Spinner
+        android:id="@+id/fragment_home_spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fragment_home_check1"
+        android:layout_alignLeft="@+id/fragment_home_check1"
+        android:layout_marginTop="10dp"
+        android:entries="@array/spinnerStr" />
+
+    <CheckBox
+        android:id="@+id/fragment_home_check3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fragment_home_spinner"
+        android:layout_alignLeft="@+id/fragment_home_spinner"
+        android:layout_marginTop="10dp"
+        android:text="移除水平平移动画" />
+</RelativeLayout>
